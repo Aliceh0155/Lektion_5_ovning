@@ -15,12 +15,19 @@ public class Main {
         System.out.println("Mata in ett tal!");
 
         int tal = sc.nextInt();
-        for (int i =  0; i< tal ; i++){
+        for (int i = 0; i < tal; i++) {
 
             System.out.println("loopen körs");
 
 
         }
+
+        do {
+
+            System.out.println("Hej");
+
+        } while (true);
+
 
     }
 }

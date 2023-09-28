@@ -12,5 +12,15 @@ public class Main {
         String namn = sc.nextLine();
         System.out.println("Player #1: " + namn);
 
+        System.out.println("Mata in ett tal!");
+
+        int tal = sc.nextInt();
+        for (int i =  0; i< tal ; i++){
+
+            System.out.println("loopen körs");
+
+
+        }
+
     }
 }
